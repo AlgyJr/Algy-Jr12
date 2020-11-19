@@ -10,6 +10,7 @@ I'm Algy Jr., I'm a Software Developer 💻 who is passionate about computer, mo
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/algy-ali-a1360695/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:algymussa@gmail.com)
 - 😄 Pronouns: He/Him/His
+- 🎮 Gamer, PSN: algy_jr12
 
 
 <br>
