@@ -3,7 +3,7 @@
 ## Hi 👋,
 I'm Algy Jr., I'm a Software Developer 💻 who is passionate about computer, mobile, web technologies. 
 
-- 🔭 I’m currently trying to master Flutter building App clones
+- 🔭 I’m currently mastering Flutter building App's UI clones
 - 🌱 I’m currently learning Flutter
 - ⚡ I'm Skilled on: Java, JavaScript, Oracle Database and few more...
 - 💬 Ask me about anything, I am happy to help
