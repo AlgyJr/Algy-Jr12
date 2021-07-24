@@ -19,4 +19,4 @@ I'm Algy Jr., I'm a Software Developer 💻 who is passionate about computer, mo
     <a href="mailto:algymussa@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
 </p>
 
-> Algy Jr.
+> Algy Ali Jr.
