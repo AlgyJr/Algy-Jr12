@@ -3,8 +3,8 @@
 ## Hi 👋,
 I'm Algy Jr., I'm a Software Developer 💻 who is passionate about computer, mobile, web technologies. 
 
-- 🔭 I’m currently mastering Flutter building App's UI clones
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on a Ticket Shop Mobile App
+- 🌱 I’m currently mastering Flutter cloning App's UI
 - ⚡ I'm Skilled on: Java, JavaScript, Oracle Database and few more...
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/algy-ali-a1360695/) 
