@@ -3,7 +3,7 @@
 ## Hi 👋,
 I'm Algy Jr., I'm a Software Developer 💻 who is passionate about computer, mobile, web technologies. 
 
-- 🔭 I’m currently working on a Ticket Shop Mobile App
+- 🔭 I’m currently working on a Bus Ticket Shop Mobile App
 - 🌱 I’m currently mastering Flutter cloning App's UI
 - ⚡ I'm Skilled on: Java, JavaScript, Oracle Database and few more...
 - 💬 Ask me about anything, I am happy to help
