@@ -4,8 +4,8 @@
 I'm Algy Jr., I'm a Software Developer 💻 who is passionate about computer, mobile, web technologies. 
 
 - 🔭 I’m currently working on Champier's projects
-- 🌱 I’m currently mastering Flutter cloning App's UI and making Apps
-- ⚡ I'm Skilled on: Mobile Development (Flutter), Web Development (ReactJS), Desktop Development (Java), SQL/NoSQL Databases and few more...
+- 🌱 I’m currently learning iOS Development with Swift
+- ⚡ I'm Skilled on: Mobile Development (Flutter & iOS), Web Development (ReactJS), Desktop Development (Java), SQL/NoSQL Databases and few more...
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/algy-ali-a1360695/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:algymussa@gmail.com)
